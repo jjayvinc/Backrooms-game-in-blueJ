@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=map\ player
+comment1.target=Enemy(Map,\ Player)
+comment2.params=player\ map
+comment2.target=void\ update(Player,\ Map)
+comment3.params=map\ playerCellX\ playerCellY
+comment3.target=void\ recalcPath(Map,\ int,\ int)
+comment4.params=distance
+comment4.target=void\ playStepSound(double)
+comment5.params=player
+comment5.target=boolean\ checkCollision(Player)
+comment6.params=g\ player\ map\ screenWidth\ screenHeight
+comment6.target=void\ draw(java.awt.Graphics,\ Player,\ Map,\ int,\ int)
+comment7.params=
+comment7.target=void\ stopSounds()
+numComments=8

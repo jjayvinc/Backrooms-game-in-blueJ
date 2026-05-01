@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SoundPlayer
+comment1.params=resourcePath
+comment1.target=javax.sound.sampled.Clip\ loadClipFromResource(java.lang.String)
+comment2.params=clip\ volumeDb
+comment2.target=void\ setClipVolume(javax.sound.sampled.Clip,\ float)
+comment3.params=clip\ linearGain
+comment3.target=void\ setClipVolumeLinear(javax.sound.sampled.Clip,\ double)
+comment4.params=resourcePath\ initialVolumeDb
+comment4.target=javax.sound.sampled.Clip\ loopClip(java.lang.String,\ float)
+comment5.params=resourcePath\ volumeDb\ activeClipHolder
+comment5.target=void\ playOneShotNoOverlap(java.lang.String,\ float,\ javax.sound.sampled.Clip[])
+comment6.params=resourcePath\ linearGain\ activeClipHolder
+comment6.target=void\ playOneShotNoOverlapLinear(java.lang.String,\ double,\ javax.sound.sampled.Clip[])
+comment7.params=holder
+comment7.target=void\ stopAndClose(javax.sound.sampled.Clip[])
+numComments=8

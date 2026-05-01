@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=
+comment1.target=Map()
+comment10.params=chance\ seed
+comment10.target=void\ applyDecayWithSeed(double,\ long)
+comment2.params=chance\ seed
+comment2.target=void\ applyDecay(double,\ long)
+comment3.params=x\ y
+comment3.target=int\ countFreeNeighbors(int,\ int)
+comment4.params=x\ y
+comment4.target=int\ countWallNeighbors(int,\ int)
+comment5.params=x\ y
+comment5.target=boolean\ isWall(int,\ int)
+comment6.params=x\ y\ angle
+comment6.target=double\ castRay(double,\ double,\ double)
+comment7.params=
+comment7.target=int\ getWidth()
+comment8.params=
+comment8.target=int\ getHeight()
+comment9.params=
+comment9.target=int[][]\ getGrid()
+numComments=11

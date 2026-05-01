@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GamePanel
+comment1.params=
+comment1.target=GamePanel()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment11.params=e
+comment11.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=
+comment2.target=void\ updateGame()
+comment3.params=
+comment3.target=void\ playPlayerStepSound()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment5.params=e
+comment5.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment6.params=e
+comment6.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment7.params=e
+comment7.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment8.params=
+comment8.target=void\ resetGame()
+comment9.params=
+comment9.target=void\ stop()
+numComments=12

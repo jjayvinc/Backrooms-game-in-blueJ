@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PathFinder
+comment1.params=map\ sx\ sy\ tx\ ty
+comment1.target=java.util.List\ findPath(Map,\ int,\ int,\ int,\ int)
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=double\ heuristic(int,\ int,\ int,\ int)
+numComments=3

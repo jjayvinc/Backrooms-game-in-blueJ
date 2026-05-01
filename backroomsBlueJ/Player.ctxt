@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y\ angle
+comment1.target=Player(double,\ double,\ double)
+comment2.params=step\ map
+comment2.target=void\ moveForward(double,\ Map)
+comment3.params=step\ map
+comment3.target=void\ strafe(double,\ Map)
+comment4.params=deltaAngle
+comment4.target=void\ rotate(double)
+numComments=5
